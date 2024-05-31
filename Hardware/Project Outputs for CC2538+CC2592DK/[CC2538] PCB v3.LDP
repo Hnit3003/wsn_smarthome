@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\hardware\Project 2023\Project\CC2538+CC2592DK\[CC2538] PCB v3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=[cc2538] pcb v3-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=[cc2538] pcb v3-slotholes.txt|DrillLayers=gtl,gbl

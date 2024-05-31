@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CC2538+CC2592DK.PrjPcb]
+   Generated File[[CC2538] PCB v3-RoundHoles.TXT]
+   Generated File[[CC2538] PCB v3-SlotHoles.TXT]
+   Generated File[[CC2538] PCB v3.LDP]
+   Generated File[[CC2538] PCB v3.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:49:16 PM On 5/1/2024

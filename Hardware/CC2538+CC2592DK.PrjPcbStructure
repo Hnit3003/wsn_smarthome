@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=[CC2538] Flashing - FTDI.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[CC2538] Flashing - FTDI.SchDoc|FileName=[CC2538] MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[CC2538] Flashing - FTDI.SchDoc|FileName=[CC2538] Power Circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[CC2538] Flashing - FTDI.SchDoc|FileName=[CC2538] Power Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[CC2538] Flashing - FTDI.SchDoc|FileName=[CC2538] RTC.SchDoc|SheetNumber=5
